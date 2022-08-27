@@ -1,0 +1,25 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "\" \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhrtlmrdyh/ZahratulM_Lat-Node.js.git"
+  },
+  "author": "Zahra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhrtlmrdyh/ZahratulM_Lat-Node.js/issues"
+  },
+  "homepage": "https://github.com/zhrtlmrdyh/ZahratulM_Lat-Node.js#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "nodemon": "^2.0.19",
+    "validator": "^10.11.0",
+    "yargs": "^12.0.2"
+  }
+}
